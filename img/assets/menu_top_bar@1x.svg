@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="594px" height="2px" viewBox="0 0 594 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu_top_bar@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B1B1B1" offset="0.023560424%"></stop>
+            <stop stop-color="#828282" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Games_AZ" transform="translate(0.000000, -106.000000)" fill="url(#linearGradient-1)">
+            <rect id="menu_top_bar" x="0" y="106" width="594" height="2"></rect>
+        </g>
+    </g>
+</svg>

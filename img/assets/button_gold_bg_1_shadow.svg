@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="49px" viewBox="0 0 130 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>button_gold_bg_1_shadow</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAC357" offset="0.0950953344%"></stop>
+            <stop stop-color="#FDD17B" offset="17.6382212%"></stop>
+            <stop stop-color="#FFA011" offset="50.5813279%"></stop>
+            <stop stop-color="#F88A00" offset="74.1163134%"></stop>
+            <stop stop-color="#BD6A01" offset="90.1006952%"></stop>
+            <stop stop-color="#754808" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="112.116788" height="31"></rect>
+        <filter x="-20.5%" y="-32.3%" width="130.3%" height="209.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="-6" dy="7" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.129906714 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-98.000000, -107.000000)">
+            <g id="button_gold_bg_1_shadow" transform="translate(113.000000, 109.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

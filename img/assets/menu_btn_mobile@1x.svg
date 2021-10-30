@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="25px" viewBox="0 0 57 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu_btn_mobile@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.844419253%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E0190A" offset="0%"></stop>
+            <stop stop-color="#DA584E" offset="16.9698222%"></stop>
+            <stop stop-color="#CE3025" offset="50.6822279%"></stop>
+            <stop stop-color="#B11D10" offset="74.1163134%"></stop>
+            <stop stop-color="#830900" offset="90.1006952%"></stop>
+            <stop stop-color="#690800" offset="100%"></stop>
+        </linearGradient>
+        <text id="text-2" font-family="NokiaSansS60-Regular, Nokia Sans S60" font-size="13.44" font-weight="normal" letter-spacing="0.224000001" fill="#FFFFFF">
+            <tspan x="11.5031356" y="15.7720989">MENU</tspan>
+        </text>
+        <filter x="-5.8%" y="-8.3%" width="111.6%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.406628153   0 0 0 0 0.134837877   0 0 0 0 0.00550319446  0 0 0 0.718364155 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="home-mobile" transform="translate(-251.000000, -12.000000)">
+            <g id="menu_btn_mobile" transform="translate(251.000000, 12.000000)">
+                <rect id="Rectangle-Copy-5" fill="url(#linearGradient-1)" x="0" y="0" width="57" height="25" rx="2.4"></rect>
+                <g id="MENU" fill="#FFFFFF" fill-opacity="1">
+                    <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+                    <use xlink:href="#text-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

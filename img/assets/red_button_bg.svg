@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="113px" height="31px" viewBox="0 0 113 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>red_button_bg</title>
+    <defs>
+        <linearGradient x1="50%" y1="0.844419253%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E0190A" offset="0%"></stop>
+            <stop stop-color="#DA584E" offset="16.9698222%"></stop>
+            <stop stop-color="#CE3025" offset="50.6822279%"></stop>
+            <stop stop-color="#B11D10" offset="74.1163134%"></stop>
+            <stop stop-color="#830900" offset="90.1006952%"></stop>
+            <stop stop-color="#690800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-225.000000, -109.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(113.000000, 109.000000)">
+                <rect id="red_button_bg" x="112.116788" y="0" width="112.116788" height="31"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

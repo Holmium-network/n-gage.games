@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1099px" height="142px" viewBox="0 0 1099 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 6@1x</title>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-181.000000, 1.000000)">
+            <g id="Group-6" transform="translate(182.000000, 0.000000)">
+                <polygon id="Rectangle" fill="#0D0D0D" points="1 0 1098 0 1098 106 1096.57302 141 465.083543 141 16.3708026 106 72.54681 50.9787085 77.8584042 49.8410596 77.8584042 46.3311258 51.3942465 46.3311258 42.988189 44.6756957"></polygon>
+                <rect id="Rectangle" fill="#222222" x="76" y="46" width="1022" height="4"></rect>
+                <path d="M0,0 L41.986709,43.0430316 C43.8310687,44.9337926 46.360568,46 49.001901,46 L1098,46 L1098,46" id="Path-3" stroke="#979797" stroke-width="0.7"></path>
+                <path d="M15,50 L70.2034772,103.253121 C72.0301736,105.015279 74.4692948,106 77.0074089,106 L1098,106 L1098,106" id="Path-3-Copy" stroke="#979797" stroke-width="0.7" transform="translate(556.500000, 78.000000) scale(1, -1) translate(-556.500000, -78.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1279px" height="3px" viewBox="0 0 1279 3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>breadcrumb_bottom@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#484848" offset="0.023560424%"></stop>
+            <stop stop-color="#888888" offset="5.74942635%"></stop>
+            <stop stop-color="#727272" offset="14.4852218%"></stop>
+            <stop stop-color="#5F5F5F" offset="36.3472465%"></stop>
+            <stop stop-color="#575757" offset="78.7201568%"></stop>
+            <stop stop-color="#2C2C2C" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Games_AZ" transform="translate(0.000000, -187.000000)" fill="url(#linearGradient-1)">
+            <rect id="breadcrumb_bottom" x="0" y="187" width="1278.57302" height="3"></rect>
+        </g>
+    </g>
+</svg>

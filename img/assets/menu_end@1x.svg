@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="41px" viewBox="0 0 117 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>menu_end@1x</title>
+    <defs>
+        <linearGradient x1="50%" y1="5.17100087%" x2="50%" y2="99.975877%" id="linearGradient-1">
+            <stop stop-color="#AEAEAE" offset="0%"></stop>
+            <stop stop-color="#A7A7A7" offset="6.99710446%"></stop>
+            <stop stop-color="#5B5B5B" offset="83.7163325%"></stop>
+            <stop stop-color="#686868" offset="84.8071118%"></stop>
+            <stop stop-color="#595959" offset="96.4159132%"></stop>
+            <stop stop-color="#2D2D2D" offset="99.9745616%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Prod" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Games_AZ" transform="translate(-592.000000, -106.000000)" fill="url(#linearGradient-1)">
+            <path d="M592,106 C599.310624,105.997355 604.50844,106.562218 607.593448,107.694588 C610.029913,108.588907 613.072783,110.48868 616.72206,113.393906 L616.72206,113.393907 C618.450941,114.770286 620.060338,116.290396 621.533052,117.93799 C625.676625,122.573599 629.346043,126.126114 632.541307,128.595535 C635.621669,130.976155 640.378096,134.26481 646.810586,138.461501 C649.199562,140.020121 651.990401,140.850019 654.842856,140.850019 L709,140.850019 L709,140.850019 L709,147 L592,147 L592,106 Z" id="menu_end"></path>
+        </g>
+    </g>
+</svg>
